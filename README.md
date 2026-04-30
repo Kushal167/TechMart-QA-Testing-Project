@@ -7,7 +7,7 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project contains manually written and executed test cases for the **TechMart E-Commerce Web Application**. The goal is to verify the functionality, usability, and reliability of the application's core authentication modules — **Sign Up** and **Login**.
 
@@ -15,7 +15,7 @@ The testing covers positive scenarios, negative scenarios, edge cases, and UI va
 
 ---
 
-## 📁 Folder Structure
+##  Folder Structure
 
 ```
 TechMart-QA-Testing-Project/
@@ -30,7 +30,7 @@ TechMart-QA-Testing-Project/
 
 ---
 
-## 🧪 Modules Tested
+##  Modules Tested
 
 | Module | No. of Test Cases | Passed | Failed |
 |---|---|---|---|
@@ -40,7 +40,7 @@ TechMart-QA-Testing-Project/
 
 ---
 
-## ✅ Test Case Structure
+##  Test Case Structure
 
 Each test case follows this format:
 
@@ -55,7 +55,7 @@ Each test case follows this format:
 
 ---
 
-## 🐛 Bugs Found
+##  Bugs Found
 
 Bugs were identified when the **Actual Result** did not match the **Expected Result**. All bugs are documented in detail in the [`Bug-Reports/Bug_Report.md`](Bug-Reports/Bug_Report.md) file.
 
@@ -73,7 +73,7 @@ Bugs were identified when the **Actual Result** did not match the **Expected Res
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 - **Microsoft Excel** — Test case documentation
 - **Manual Testing** — Functional and UI testing
@@ -81,18 +81,18 @@ Bugs were identified when the **Actual Result** did not match the **Expected Res
 
 ---
 
-## 📋 Types of Testing Performed
+##  Types of Testing Performed
 
-- ✅ Functional Testing
-- ✅ Negative Testing
-- ✅ Boundary / Edge Case Testing
-- ✅ UI / Usability Testing
-- ✅ Input Validation Testing
+-  Functional Testing
+-  Negative Testing
+-  Boundary / Edge Case Testing
+-  UI / Usability Testing
+-  Input Validation Testing
 
 ---
 
-## 👤 About the Tester
+##  About the Tester
 
 **Kushal Shrivastava**  
 Aspiring QA Engineer | Manual Testing  
-📅 April 2026
+ April 2026
