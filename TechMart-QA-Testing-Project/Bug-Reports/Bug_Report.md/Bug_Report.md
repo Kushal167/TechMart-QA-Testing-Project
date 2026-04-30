@@ -7,7 +7,7 @@
 
 ---
 
-## 📋 Bug Report Summary
+##  Bug Report Summary
 
 | Bug ID | Module | Test Case | Severity | Status |
 |---|---|---|---|---|
@@ -113,7 +113,7 @@ Users are not informed about all missing required fields, leading to a poor user
 
 ---
 
-### BUG_004 — Login Succeeded with Invalid Username ⚠️ CRITICAL
+### BUG_004 — Login Succeeded with Invalid Username  [CRITICAL]
 
 | Field | Details |
 |---|---|
