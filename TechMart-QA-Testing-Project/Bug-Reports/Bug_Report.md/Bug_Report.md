@@ -197,7 +197,7 @@ This is a **session management issue**. On shared or public devices, another per
 
 ---
 
-## 📊 Bug Severity Summary
+##  Bug Severity Summary
 
 | Severity | Count |
 |---|---|
