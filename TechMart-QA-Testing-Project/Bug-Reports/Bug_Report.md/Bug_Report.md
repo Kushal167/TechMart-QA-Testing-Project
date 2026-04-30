@@ -1,4 +1,4 @@
-# 🐛 Bug Report — TechMart E-Commerce App
+#  Bug Report — TechMart E-Commerce App
 
 **Project:** TechMart E-Commerce Web Application  
 **Tested by:** Kushal Shrivastava  
